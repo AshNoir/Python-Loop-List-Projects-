@@ -18,7 +18,7 @@ A collection of beginner Python projects created to practice:
 - Find maximum number
 
 
-### 🔜 2. Student Marks Analyzer
+### ✅ 2. Student Marks Analyzer
 Features:
 - Take marks from user
 - Calculate total marks
