@@ -27,7 +27,7 @@ Features:
 - Count pass/fail students
 
 
-### 🔜 3. Number Guess Analyzer
+### ✅ 3. Number Guess Analyzer
 Features:
 - Search number from list
 - Find position of number
