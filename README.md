@@ -7,7 +7,9 @@ A collection of beginner Python projects created to practice:
 - Conditions
 - User input
 - Basic problem solving
-
+- Dictionary
+- Dictionary key-value pairs
+- Character counting logic
 
 ## Projects Included 🚀
 
