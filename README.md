@@ -42,7 +42,7 @@ Features:
 - Analyze strings using loops
 
 
-### 🔜 5. Shopping Cart System
+### ✅ 5. Shopping Cart System
 Features:
 - Add items
 - Calculate total bill
