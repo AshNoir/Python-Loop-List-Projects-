@@ -36,7 +36,7 @@ Features:
 - Display if number exists or not
 
 
-### 🔜 4. Character Frequency Counter
+### ✅ 4. Character Frequency Counter
 Features:
 - Count frequency of characters
 - Analyze strings using loops
