@@ -49,7 +49,7 @@ Features:
 - Apply discounts
 
 
-### 🔜 6. Vowel Counter
+### ✅ 6. Vowel Counter
 Features:
 - Count vowels from text
 - Analyze strings
