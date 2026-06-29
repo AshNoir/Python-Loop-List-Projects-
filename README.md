@@ -65,25 +65,7 @@ Features:
 - Delete tasks
 
 
-### 🔜 8. Inventory Tracker
-Features:
-- Store products
-- Update quantity
-- Track inventory
 
-
-### 🔜 9. ATM Transaction System
-Features:
-- Deposit money
-- Withdraw money
-- Show transaction history
-
-
-### 🔜 10. File Word Counter
-Features:
-- Read text file
-- Count words
-- Count repeated words
 
 
 
