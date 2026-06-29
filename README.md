@@ -2,7 +2,6 @@
 
 A collection of beginner Python projects created to practice:
 - For loops
-- While loops
 - Lists
 - Conditions
 - User input
@@ -10,7 +9,11 @@ A collection of beginner Python projects created to practice:
 - Dictionary
 - Dictionary key-value pairs
 - Character counting logic
-
+- while loop
+- list.append()
+- list.pop()
+- enumerate()
+- menu driven program
 ## Projects Included 🚀
 
 ### ✅ 1. Number Analyzer
@@ -55,7 +58,7 @@ Features:
 - Analyze strings
 
 
-### 🔜 7. Simple To-Do List CLI
+### ✅ 7. Simple To-Do List CLI
 Features:
 - Add tasks
 - View tasks
